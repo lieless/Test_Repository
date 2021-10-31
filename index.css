@@ -15,4 +15,6 @@ q {
 div {
     font-family: 'OpenSans';
     font-style: italic;
+    /* flex: 1 30px;
+    margin: 50px; */
 }
